@@ -1,5 +1,5 @@
 ---
-title: "Daniel
+title: "Daniel"
 output: rmarkdown::github_document
 date: "2024-07-30"
 ---
